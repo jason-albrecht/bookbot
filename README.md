@@ -1,2 +1,1 @@
-# bookbot
-bookbot project for boot dot dev
+BookBot is my first git project!
